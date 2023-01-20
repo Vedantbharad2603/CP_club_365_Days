@@ -1,0 +1,1 @@
+{"name":"Local: day45","url":"d:\\SEM 3\\CP club\\045Day\\day45.c","tests":[{"id":1669891154226,"input":"1\n5\nebacd\nfghij\nolmkn\ntrpqs\nxywuv","output":"YES"},{"id":1669892690830,"input":"1\n3\nabc\nade\nefg","output":"YES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\SEM 3\\CP club\\045Day\\day45.c","group":"local","local":true}

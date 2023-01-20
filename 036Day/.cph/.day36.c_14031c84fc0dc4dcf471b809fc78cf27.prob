@@ -1,0 +1,1 @@
+{"name":"Local: day36","url":"d:\\SEM 3\\CP club\\036Day\\day36.c","tests":[{"id":1669089988642,"input":"5 4\n1 2 3 4 5","output":"5 1 2 3 4"},{"id":1669103142699,"input":"10 12\n1 2 3 4 5 6 7 8 9 0","output":"3 4 5 6 7 8 9 0 1 2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\SEM 3\\CP club\\036Day\\day36.c","group":"local","local":true}

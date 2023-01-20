@@ -1,0 +1,1 @@
+{"name":"Local: temp","url":"d:\\SEM 3\\CP club\\045Day\\temp.c","tests":[{"id":1669894711570,"input":"1\n5\nebacd\nfghij\nolmkn\ntrpqs\nxywuv","output":"YES"},{"id":1669896982328,"input":"2\n2\nkc\niu\n3\nuxf\nvof\nhmp","output":"YES\nNO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\SEM 3\\CP club\\045Day\\temp.c","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: day043","url":"d:\\SEM 3\\CP club\\043Day\\day043.c","tests":[{"id":1669693578779,"input":"3\n1 3 2","output":"11"},{"id":1669728515790,"input":"4\n7 4 9 6","output":"79"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\SEM 3\\CP club\\043Day\\day043.c","group":"local","local":true}

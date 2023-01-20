@@ -1,0 +1,1 @@
+{"name":"Local: day33","url":"d:\\CP club\\033Day\\day33.c","tests":[{"id":1668836823565,"input":"1\nabc","output":"0"},{"id":1668836828824,"input":"1\naa","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP club\\033Day\\day33.c","group":"local","local":true}

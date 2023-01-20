@@ -1,0 +1,1 @@
+{"name":"Local: day068","url":"d:\\CP club\\068Day\\day068.cpp","tests":[{"id":1671883935913,"input":"4\n2 3 4\n1 2 2\n2 2 2\n3 5 6","output":"YES\nNO\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP club\\068Day\\day068.cpp","group":"local","local":true}

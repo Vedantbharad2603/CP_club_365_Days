@@ -1,0 +1,1 @@
+{"name":"Local: day091","url":"d:\\CP club\\091Day\\day091.py","tests":[{"id":1673885943474,"input":"3\n{[()]}\n{[(])}\n{{[[(())]]}}","output":"YES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP club\\091Day\\day091.py","group":"local","local":true}

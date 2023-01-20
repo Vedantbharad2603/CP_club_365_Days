@@ -1,0 +1,1 @@
+{"name":"Local: day33","url":"d:\\CP club\\033Day\\day33.cpp","tests":[{"id":1668836141631,"input":"1\nabc","output":"0"},{"id":1668836201917,"input":"2\nabba\nwasddsaw","output":"1\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP club\\033Day\\day33.cpp","group":"local","local":true}
