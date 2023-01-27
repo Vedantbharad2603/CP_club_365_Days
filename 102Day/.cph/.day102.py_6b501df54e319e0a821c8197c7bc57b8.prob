@@ -1,0 +1,1 @@
+{"name":"Local: day102","url":"d:\\CP_club_365_Days\\102Day\\day102.py","tests":[{"id":1674839058045,"input":"3\n3 4 1\n5 2 1\n3 4 3","output":"0\n2\n0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP_club_365_Days\\102Day\\day102.py","group":"local","local":true}
