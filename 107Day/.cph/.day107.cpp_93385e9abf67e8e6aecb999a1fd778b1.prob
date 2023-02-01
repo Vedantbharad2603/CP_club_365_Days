@@ -1,0 +1,1 @@
+{"name":"Local: day107","url":"d:\\CP_club_365_Days\\107Day\\day107.cpp","tests":[{"id":1675272332559,"input":"10\n1\n2\n3\n4\n5\n6\n7\n8\n9\n10","output":"2\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CP_club_365_Days\\107Day\\day107.cpp","group":"local","local":true}
